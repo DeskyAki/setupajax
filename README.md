@@ -1,0 +1,2 @@
+# setupajax
+ajxa跨域
